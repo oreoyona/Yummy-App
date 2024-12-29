@@ -23,3 +23,9 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/
+    - assets/categories/
+    - assets/restaurants/
+    - assets/profile_pics/
+    - assets/food/
